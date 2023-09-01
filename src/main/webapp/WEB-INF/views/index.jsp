@@ -6,7 +6,7 @@
     <h2>We are testing of Jenkins</h2>
     <hr>
     <h1>${msg}</h1>
-    <h1>Hi, there (updated by dowon)</h1>
+    <h1>Hi, there (updated by 2hojune)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.0</h3>
 </body>
